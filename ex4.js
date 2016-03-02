@@ -12,9 +12,9 @@ $(document).ready(function() {
   //hover bag img as callback function
 function() {
   $('#button5').hover(function(){
-    $(this).stop().attr('src', 'assets/images/img5-r.png'); //end function 1
+    $(this).stop().attr('src', 'images/img5-r.png'); //end function 1
 }, function() {
-  $(this).stop().attr('src', 'assets/images/img5.png'); //end function 2
+  $(this).stop().attr('src', 'images/img5.png'); //end function 2
   }); //end hover function
 }); //end animate and callback functions
 
@@ -36,9 +36,9 @@ $('#button5').click(function() {
 //hover tea mug img as callback function
 function() {
 $('#button1').hover(function(){
-  $(this).stop().attr('src', 'assets/images/img1-r.png'); //end function 1
+  $(this).stop().attr('src', 'images/img1-r.png'); //end function 1
 }, function() {
-$(this).stop().attr('src', 'assets/images/img1.png'); //end function 2
+$(this).stop().attr('src', 'images/img1.png'); //end function 2
   }); //end hover function
 }); //end animate and callback functions
 
@@ -60,9 +60,9 @@ $('#button1').click(function() {
 //hover glasses img as callback function
 function() {
 $('#button2').hover(function(){
-  $(this).stop().attr('src', 'assets/images/img2-r.png'); //end function 1
+  $(this).stop().attr('src', 'images/img2-r.png'); //end function 1
 }, function() {
-$(this).stop().attr('src', 'assets/images/img2.png'); //end function 2
+$(this).stop().attr('src', 'images/img2.png'); //end function 2
   }); //end hover function
 }); //end animate and callback functions
 
@@ -89,9 +89,9 @@ $('.close-button').click(function() {
 //hover chapstick img as callback function
 function() {
 $('#button3').hover(function(){
-  $(this).stop().attr('src', 'assets/images/img3-r.png'); //end function 1
+  $(this).stop().attr('src', 'images/img3-r.png'); //end function 1
 }, function() {
-$(this).stop().attr('src', 'assets/images/img3.png'); //end function 2
+$(this).stop().attr('src', 'images/img3.png'); //end function 2
   }); //end hover function
 }); //end animate and callback functions
 
@@ -113,9 +113,9 @@ $('#button3').click(function() {
 //hover notebook img as callback function
 function() {
 $('#button4').hover(function(){
-  $(this).stop().attr('src', 'assets/images/img4-r.png'); //end function 1
+  $(this).stop().attr('src', 'images/img4-r.png'); //end function 1
 }, function() {
-$(this).stop().attr('src', 'assets/images/img4.png'); //end function 2
+$(this).stop().attr('src', 'images/img4.png'); //end function 2
   }); //end hover function
 }); //end animate and callback functions
 
